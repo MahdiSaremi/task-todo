@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "laravel-boost": {
+            "command": "/usr/bin/php8.3",
+            "args": [
+                "/home/mahdi/Dev/Web/task-todo/artisan",
+                "boost:mcp"
+            ]
+        }
+    }
+}
